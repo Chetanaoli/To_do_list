@@ -1,6 +1,11 @@
 # [APPLICATION DE LISTE DE TÂCHES](https://to-do-list-pink-eight-43.vercel.app/)
 
-<img src="screenshot.png" alt="capture d'écran du projet">
+*Homepage
+<img src="screenshot.png" alt="capture d'écran-01 du projet">
+*Pendinglist
+<img src="pendinglist.png" alt="capture d'écran-02 du projet">
+*Important list
+<img src="important_list" alt="capture d'écran-03 du projet">
 
 <!-- À PROPOS DU PROJET -->
 ## À Propos Du Projet
