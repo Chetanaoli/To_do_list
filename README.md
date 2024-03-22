@@ -7,7 +7,7 @@
 <img src="pendinglist.png" alt="capture d'écran-02 du projet">
 
 #### * Important list
-<img src="important_list" alt="capture d'écran-03 du projet">
+<img src="important_list.png" alt="capture d'écran-03 du projet">
 
 <!-- À PROPOS DU PROJET -->
 ## À Propos Du Projet
